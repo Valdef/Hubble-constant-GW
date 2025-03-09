@@ -1,2 +1,6 @@
-This file contains my code created to contraint Hubble-Constant using Gravitational waves event.
-This is my Master's final year project.
+This file contains my code created to constrain the Hubble-Constant using Gravitational waves events.
+This is my Master's project.
+
+In the skymap folder there's the sky localisation of all the GW events.
+distance.ipynb can find the distance of GW without relying on LIGO, by using Bayesian inference and SNR of event to get high and low estimate.
+statistical_redshift.ipynb calculate the statistical redshift of the events based on their sky localisation map and the galaxy catalog GLADE+.
