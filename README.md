@@ -7,6 +7,6 @@ distance.ipynb can find the distance of GW without relying on LIGO, by using Bay
 
 statistical_redshift.ipynb calculate the statistical redshift of the events based on their sky localisation map and the galaxy catalog GLADE+.
 
-statistical_redshift_LIGO.py calculate the statistical redshift of events based on LIGO's distances and save the results in different csv file (90)
+statistical_redshift_LIGO.ipynb calculate the statistical redshift of events based on LIGO's distances and save the results in different csv file (90)
 
-H0_LIGO.py calculate the average Hubble constant for each events based on LIGO's distances and save results in different csv file (90)
+H0_LIGO.ipynb calculate the average Hubble constant for each events based on LIGO's distances and save results in different csv file (90)
