@@ -1,5 +1,6 @@
 This file contains my code created to calculate the Hubble-Constant using Gravitational wave events independently without any bias.
 This is my Master's project.
+The program is currently set up to work for one event at a time, but an updated version to automatically calculates the Hubble constant for all the events will be available in the future.
 
 The sky localisation of all the GW events is in the skymap folder.
 
